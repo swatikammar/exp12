@@ -8,5 +8,3 @@ git commit
 analysing
 changing
 git history
-first commit
-date
