@@ -6,3 +6,5 @@ how are you?
 git remote
 git commit
 analysing
+changing
+git history
