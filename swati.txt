@@ -4,3 +4,5 @@ welcome to github
 gitlab
 how are you?
 git remote
+git commit
+analysing
