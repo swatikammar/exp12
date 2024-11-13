@@ -2,3 +2,5 @@ hii
 hello
 welcome to github
 gitlab
+how are you?
+git remote
